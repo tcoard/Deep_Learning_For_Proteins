@@ -1,3 +1,4 @@
+# originally from https://ndownloader.figshare.com/files/20306223
 ORIGINAL_FASTA_PATH = "coala40.fa"
 FASTA_PATH = "esm40.fa"
 
