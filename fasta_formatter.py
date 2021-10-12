@@ -1,6 +1,6 @@
 # originally from https://ndownloader.figshare.com/files/20306223
 ORIGINAL_FASTA_PATH = "coala40.fa"
-FASTA_PATH = "esm40.fa"
+FASTA_PATH = "reformatted_coala40.fa"
 
 MOST_COMMON_DRUG_RES = [
     "TRIMETHOPRIM",
